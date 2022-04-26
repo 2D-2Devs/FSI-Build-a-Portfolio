@@ -1,6 +1,7 @@
-body{
+div{
     background-color: black;
-
+    cursor: crosshair;
+}
 h1{
     color: azure;
     font-family: 'Times New Roman', Times, serif;
@@ -30,8 +31,4 @@ img{
     border-radius: 20px;
     border-style: dashed;
     border-color:cadetblue;
-}
-div{
-    cursor:crosshair
-}
 }
